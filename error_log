@@ -1,0 +1,17 @@
+[22-Apr-2016 09:33:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/imranweb/public_html/result/database_connect.php on line 2
+[22-Apr-2016 09:33:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/imranweb/public_html/result/index.php on line 46
+[22-Apr-2016 09:33:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/imranweb/public_html/result/index.php on line 48
+[22-Apr-2016 09:33:27 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/imranweb/public_html/result/database_connect.php on line 2
+[22-Apr-2016 09:33:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/imranweb/public_html/result/index.php on line 46
+[22-Apr-2016 09:33:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/imranweb/public_html/result/index.php on line 48
+[22-Apr-2016 09:34:26 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/imranweb/public_html/result/database_connect.php on line 2
+[22-Apr-2016 09:34:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/imranweb/public_html/result/index.php on line 46
+[22-Apr-2016 09:34:26 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/imranweb/public_html/result/index.php on line 48
+[22-Apr-2016 17:56:46 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 99
+[22-Apr-2016 17:56:46 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 136
+[22-Apr-2016 17:56:46 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 199
+[22-Apr-2016 17:56:46 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 236
+[23-Apr-2016 21:48:47 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 99
+[23-Apr-2016 21:48:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 136
+[23-Apr-2016 21:48:47 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 199
+[23-Apr-2016 21:48:47 America/Chicago] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/imranweb/public_html/result/admin.php on line 236
